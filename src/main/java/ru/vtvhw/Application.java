@@ -1,4 +1,4 @@
-package ru.vtvhw.vtvhw;
+package ru.vtvhw;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import ru.vtvhw.scopes.MobileApp;

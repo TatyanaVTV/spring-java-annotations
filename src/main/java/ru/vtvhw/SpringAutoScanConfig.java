@@ -1,8 +1,4 @@
-package ru.vtvhw.vtvhw;
-
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
+package ru.vtvhw;
 
 /**
  * This config is scanning packages inside @ComponentScan and creates beans.
